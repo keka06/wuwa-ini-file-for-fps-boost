@@ -1,7 +1,7 @@
 # wuwa-ini-file-for-fps-boost
 wuthering waves fps improvement file
 
-OPEN README
+**OPEN NOTES.txt**
 
 Based on research on YouTube, I discovered a way to improve wutering waves' performance by messing with the game files. 
 The "Engine.ini" file has some Unreal Engine variables that are capable of changing the graphics, resolution and effects of 
