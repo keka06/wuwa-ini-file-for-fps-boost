@@ -1,0 +1,19 @@
+NOTES
+
+;r.ScreenPercentage: refers to the game's 3D resolution, you can change it **between 1-100**
+
+;foliage.DensityScale: is the volume of the grass **(switch between 0.1 to 1)**
+
+fsr on/off: If you want to turn on the FSR to your preference, paste this:
+r.FidelityFX.FSR.RCAS.Enabled=1
+r.FidelityFX.FSR.RCAS.Sharpness=0 (sharpness level beetween 1, 2)
+r.FidelityFX.FSR.SecondaryUpScale=1
+
+;r.Streaming.FullyLoadUsedTextures: this is the variable that defines whether the textures 
+will load fully or partially, if you want the default textures, set it to 1 (true), 
+otherwise leave it as is at 0 (false)
+
+;r.DefaultFeature.AntiAliasing: preset to 1 and 2 (1 is FXAA, 2 is TAA | Default: 2)
+
+;r.StaticMeshLODDistanceScale: It controls the distance scale at which different levels of detail (LODs) 
+of static objects are displayed. **alternate between 0.1-1**
